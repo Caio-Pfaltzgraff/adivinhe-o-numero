@@ -1,0 +1,6 @@
+resetCSS- https://cdnjs.com/libraries/meyer-reset
+fontawesome import- https://cdnjs.com/libraries/font-awesome
+fontawesome site- https://fontawesome.com
+cores- https://colorhunt.co/ https://color.adobe.com/pt/create/color-wheel
+bordas- https://www.alura.com.br/artigos/css-border-estilizando-bordas-elementos-css?_gl=1*ro2ks1*_ga*MTY4MTk1OTM2LjE2NDY2NzgzMDg.*_ga_59FP0KYKSM*MTY5MDQ2Mzg2OC41NTUuMS4xNjkwNDY4MDI2LjAuMC4w*_fplc*MjlGaEMlMkYwMENDem9tN1Z5Y3ZheTJGJTJGbFR6a3o0WXlodiUyRjVHZTdVUE4lMkZ5WlljSG01M0xaeFRmcFprbkM0TjNlU1pEVyUyQllqVmlyNnJkamdHR01EYlUyeU5PWmJ1JTJGcnU3eXJ2NmpwJTJGVWxnczFwQnBsZGpHU0txRHZFN3dxckElM0QlM0Q.
+reconhecimento de voz- https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API
